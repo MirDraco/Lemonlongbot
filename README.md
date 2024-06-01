@@ -1,0 +1,2 @@
+# Lemonlongbot
+Newbie discord bot 
